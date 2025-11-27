@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sentinel/static/css/main.c4dc7a38.css",
+    "main.js": "/sentinel/static/js/main.64ca6441.js",
+    "index.html": "/sentinel/index.html",
+    "main.c4dc7a38.css.map": "/sentinel/static/css/main.c4dc7a38.css.map",
+    "main.64ca6441.js.map": "/sentinel/static/js/main.64ca6441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4dc7a38.css",
+    "static/js/main.64ca6441.js"
+  ]
+}
