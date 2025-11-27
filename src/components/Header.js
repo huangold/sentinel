@@ -9,7 +9,7 @@ const Header = () => {
           <div className="logo">
             <div className="logo-icon">🤖</div>
             <div className="logo-text">
-              <h1>隧道综合量测机器人</h1>
+              <h1>异物哨兵监测系统</h1>
               <p>智能监测 · 精准测量 · 安全可靠</p>
             </div>
           </div>
